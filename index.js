@@ -21,7 +21,7 @@ function logShout(string) {
   return string.toUpperCase()
 }
 
-function sayHiToGrandma(string) {
+function sayHiToGrandma(uppercase, lowercase, love) {
   console.log(love)
   return "I love you, too."
 }
