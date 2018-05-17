@@ -22,7 +22,7 @@ function logShout(string) {
 }
 
 function sayHiToGrandma(string) {
-  if (love) {
+  if (string.lowercase) {
   return "I love you, too.";
 } else if (uppercase) {
   return "YES INDEED!"; 
