@@ -22,5 +22,5 @@ function logShout(string) {
 }
 
 function sayHiToGrandma(string) {
-  
+  uppercase
 }
