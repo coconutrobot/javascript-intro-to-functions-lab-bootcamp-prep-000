@@ -24,9 +24,6 @@ function logShout(string) {
 function sayHiToGrandma(string) {
   console.log(love)
   return "I love you, too."
-}
-
-function sayHiToGrandma(string) {
   console.log(uppercase)
   return "YES INDEED!"
 }
