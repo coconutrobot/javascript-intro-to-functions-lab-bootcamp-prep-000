@@ -22,10 +22,5 @@ function logShout(string) {
 }
 
 function sayHiToGrandma(string) {
-  if (string.lowercase) {
-  return "I love you, too.";
-} else if (uppercase) {
-  return "YES INDEED!"; 
-} else if (lowercase) {
-  return "I can't hear you."
-}}
+  if (string.toLowerCase() 
+}
