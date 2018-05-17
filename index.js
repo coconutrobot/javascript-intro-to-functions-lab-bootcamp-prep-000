@@ -22,5 +22,7 @@ function logShout(string) {
 
 function sayHiToGrandma(string) {
   if ('HELLO') 
-  return "YES INDEED!"
+  return "YES INDEED!";
+  if else ('hello')
+  return "I can\'t hear you!"
 }
