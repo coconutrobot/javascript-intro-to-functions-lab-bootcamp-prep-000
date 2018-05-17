@@ -9,6 +9,7 @@ function whisper(string) {
 var spy = "hello"
 var uppercase = "HELLO"
 var lowercase = "hello"
+var love = "I love you, too."
 
 function logWhisper(string) {
   console.log(spy)
@@ -21,6 +22,5 @@ function logShout(string) {
 }
 
 function sayHiToGrandma(string) {
-
   
 }
